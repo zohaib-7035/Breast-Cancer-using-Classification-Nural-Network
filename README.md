@@ -1,4 +1,4 @@
-# **\<ins\> Breast Cancer Classification with Logistic Regression 🩺\</ins\>**
+# **\\ Breast Cancer Classification with Logistic Regression 🩺\\**
 
 ## Overview
 
