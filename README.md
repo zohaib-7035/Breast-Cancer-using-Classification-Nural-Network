@@ -1,6 +1,6 @@
-*Breast Cancer Classification with Neural Network 🩺*
+**Breast Cancer Classification with Neural Network 🩺**
 
-Overview
+*Overview*
 This project implements a Neural Network (NN) to classify breast tumors as Malignant or Benign using the Breast Cancer Wisconsin (Diagnostic) dataset from sklearn.datasets. The model is built using TensorFlow and Keras, with data preprocessing steps including standardization and train-test splitting. The project includes training the model, evaluating its performance, and making predictions on new data.
 Features
 
